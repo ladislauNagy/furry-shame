@@ -1,8 +1,9 @@
 Hello, Get
 
-<<<<<<< HEAD
-Hello, againFeature1
-=======
-Hello, againFeature2
+Fixing bug#1234
+
+Feature1
+Feature2
 Feature2 changes
->>>>>>> feature2_additional
+feature2_additional
+
